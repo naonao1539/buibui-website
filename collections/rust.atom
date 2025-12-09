@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://divinecheats.net/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://divinecheats.net/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://divinecheats.net/collections/rust.atom"/>
+  <title>divinecheats.net</title>
+  <updated>2025-08-02T13:02:01-04:00</updated>
+  <author>
+    <name>divinecheats.net</name>
+  </author>
+  <entry>
+    <id>https://divinecheats.net/products/8955065991384</id>
+    <published>2025-08-02T13:02:01-04:00</published>
+    <updated>2025-08-02T13:02:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://divinecheats.net/products/rust-divine-external-software"/>
+    <title>Divine Rust</title>
+    <s:type></s:type>
+    <s:vendor>Divine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0759/3741/5384/files/RUST_1b015488-494c-49b2-9caa-5e557b475667.png?v=1754245411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Divine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99 - 249.99
+            <a href="https://divinecheats.net/products/rust-divine-external-software">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Rust Cheats – Survive and Dominate with Divine</strong></p>
+<p>Enter the unforgiving world of Rust with cheats engineered for tactical survival and ruthless domination. Whether you’re raiding bases or holding your own, Divine’s software gives you the edge with deadly accurate aimbot, real-time ESP, and recoil control to keep your aim locked and lethal.</p>
+<p>Built for Windows 10 and 11, our cheat client runs seamlessly with low system usage and strong anti-cheat bypass. Plus, our <strong>24/7</strong> support ensures you're never left behind. Outplay, outlast, and outgun the competition—every time.</p>
+<p><strong>Core Features:</strong><br>- Wallhack/ESP (players, sleepers, stashes, crates, animals)<br>- Configurable Aimbot with legit and rage modes<br>- Quick install, stealth injection<br>- Constant updates, minimal detection risk</p>
+<p>Perfect for survivors who want to be the hunter, not the hunted.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://divinecheats.net/products/8955065991384</id>
+      <title>1 Day</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://divinecheats.net/products/8955065991384</id>
+      <title>3 Days</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://divinecheats.net/products/8955065991384</id>
+      <title>1 Week</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://divinecheats.net/products/8955065991384</id>
+      <title>1 Month</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://divinecheats.net/products/8955065991384</id>
+      <title>Lifetime</title>
+      <s:price currency="USD">249.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
